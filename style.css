@@ -1,0 +1,69 @@
+html {
+  background: url(img/aircraft-475409_1920.jpg);
+}
+
+body {
+  background: rgba(255, 255, 255, 0.8);
+  width: 500px;
+  padding: 50px 100px;
+  margin: 100px auto;
+  border-radius: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 42px;
+  font-variant: small-caps;
+}
+
+h1,
+h2 {
+  font-family: Georgia;
+  color: rgb(100, 92, 92);
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+#result {
+  border: 1px solid rgb(100, 92, 92);
+  padding: 20px;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: 0.5;
+}
+
+.MadLib2 {
+  background: rgb(180, 167, 167);
+  padding: 5px 22px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+.ulist {
+  font-variant: small-caps;
+}
+
+div {
+  border: grey solid 2px;
+  border-radius: 10px;
+}
+
+.buttonh {
+  background: rgb(100, 92, 92);
+  padding: 5px 30px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.buttonh:hover {
+  font-weight: bold;
+  color: darkred;
+  cursor: pointer;
+}
